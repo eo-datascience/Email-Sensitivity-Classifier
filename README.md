@@ -90,15 +90,6 @@ Users should generate their own credentials and update the application according
 
 ---
 
-## How to Run Locally
-
-1. Clone the repository
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 🌐 Live Demo
 
 Try the application here:
