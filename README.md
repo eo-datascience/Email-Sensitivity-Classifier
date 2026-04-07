@@ -4,7 +4,7 @@ An NLP-powered application that detects whether an email contains sensitive or c
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Organizations handle large volumes of email communication daily, many of which may contain sensitive information such as passwords, financial data, or confidential documents.
 
@@ -17,7 +17,7 @@ This project builds an end-to-end machine learning system that:
 
 ---
 
-## 🧠 Model Pipeline
+## Model Pipeline
 
 The model follows a standard NLP pipeline:
 
@@ -28,7 +28,7 @@ The model follows a standard NLP pipeline:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python  
 - Apache Spark (PySpark)  
@@ -38,7 +38,7 @@ The model follows a standard NLP pipeline:
 - Scikit-learn concepts (TF-IDF, Logistic Regression)
 
 ---
-## 🌐 Deployment
+## Deployment
 
 - Model trained and logged using MLflow  
 - Model registered in Databricks Model Registry  
@@ -47,7 +47,7 @@ The model follows a standard NLP pipeline:
 
 ---
 
-## 💻 Streamlit App Features
+## Streamlit App Features
 
 - Interactive UI for email input  
 - Real-time prediction  
@@ -58,7 +58,7 @@ The model follows a standard NLP pipeline:
 
 ---
 
-## 📊 Example Predictions
+## Example Predictions
 
 | Email Content | Prediction |
 |------|--------|
@@ -67,7 +67,7 @@ The model follows a standard NLP pipeline:
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 _Add screenshots here_
 
@@ -78,14 +78,14 @@ _Add screenshots here_
 
 ---
 
-## 🔐 Security Note
+## Security Note
 
 For security reasons, the Databricks access token and endpoint URL are not included in this repository.  
 Users should generate their own credentials and update the application accordingly.
 
 ---
 
-## 📌 How to Run Locally
+## How to Run Locally
 
 1. Clone the repository
 2. Install dependencies:
