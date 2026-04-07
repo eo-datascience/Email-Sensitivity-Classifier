@@ -1,4 +1,4 @@
-# 🔐 Email Sensitivity Classifier
+# 📧 Email Sensitivity Classifier
 
 An NLP-powered application that detects whether an email contains sensitive or confidential information using machine learning. The system is built with Apache Spark, deployed via MLflow on Databricks, and served through a real-time API with a Streamlit frontend.
 
