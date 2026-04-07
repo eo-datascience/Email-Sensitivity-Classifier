@@ -69,12 +69,17 @@ The model follows a standard NLP pipeline:
 
 ## Screenshots
 
-_Add screenshots here_
+### App Interface
+![App UI](images/app-ui.png)
 
-- App Interface  
-- Prediction Results  
-- Databricks Endpoint  
-- Model Output / Visualizations  
+### Sensitive Email Detection
+![Sensitive](images/sensitive-result.png)
+
+### Safe Email Detection
+![Safe](images/safe-result.png)
+
+### Model Endpoint
+![Endpoint](images/endpoint.png)
 
 ---
 
@@ -92,3 +97,10 @@ Users should generate their own credentials and update the application according
 
 ```bash
 pip install -r requirements.txt
+```
+
+## 🌐 Live Demo
+
+Try the application here:
+
+👉 [Open Streamlit App](https://email-sensitivity-classifier-7474650589026758.aws.databricksapps.com)
